@@ -1,0 +1,15 @@
+ What is Angular?
+                                   
+->Angular is a frontend JavaScript framework:
+ It helps with building interactive, modem web user interface.
+
+->It is also collection of tools and features CLI, Debugging Tools, IDE Plugins
+
+
+Why to Use AngularJS instead of JS? For trivial websites and web apps.
+
+->Simplifies the process of building complex, interactive web user interface.
+->Write declarative code
+->Separation of concerns via components.
+->OOP concepts and principles like Dependency injection and concept of classes.
+->Use Typescript.
