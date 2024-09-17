@@ -13,3 +13,15 @@ Why to Use AngularJS instead of JS? For trivial websites and web apps.
 ->Separation of concerns via components.
 ->OOP concepts and principles like Dependency injection and concept of classes.
 ->Use Typescript.
+
+Angular Evolution and Stability:
+There is same code used between different angular versions:
+
+2016- Angular 2 is released                  
+2017- Angular 4 is released (v3 is skipped)  Angular team has versioning and release policy where new major version is released every 6 month
+2017- Angular 5 is released                  But despite labeled as major version these release do not break your code and "change the framework"
+....- Angular 6 - 13 are released             
+2022- Angular 14 & 15 are released          -> Angular 14 introduces "Standalone Components"
+2023- Angular 16 is released                -> Angular 16 introduced "signals"
+
+
