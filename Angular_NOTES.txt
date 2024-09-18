@@ -24,4 +24,4 @@ There is same code used between different angular versions:
 2022- Angular 14 & 15 are released          -> Angular 14 introduces "Standalone Components"
 2023- Angular 16 is released                -> Angular 16 introduced "signals"
 
-
+---------------------------------------------------------------------------------------------------
