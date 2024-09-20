@@ -27,5 +27,19 @@ There is same code used between different angular versions:
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Angular Setup:
+Angular CLI: Angular CLI stands for Angular Command Line Interface (see this link). As the name implies, it is a command line tool for creating angular apps. 
+It is recommended to use angular cli for creating angular apps as you don't need to spend time installing and configuring all the required dependencies and wiring everything together.
+
+
+npm install -g @angular/cli
+ng new first-ang-app
+
+Then install node js - used to run javascript anywhere.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Angular Essential: 
+
+
 
 
