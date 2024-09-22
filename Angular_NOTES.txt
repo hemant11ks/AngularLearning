@@ -40,6 +40,9 @@ Then install node js - used to run javascript anywhere.
 
 Angular Essential: 
 
+index.html file is first loaded onto the browser when user enters. -> <app-root></app-root>
+
+
 
 
 
