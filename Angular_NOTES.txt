@@ -42,6 +42,9 @@ Angular Essential:
 
 index.html file is first loaded onto the browser when user enters. -> <app-root></app-root>
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
