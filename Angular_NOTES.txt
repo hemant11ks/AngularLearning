@@ -44,6 +44,11 @@ index.html file is first loaded onto the browser when user enters. -> <app-root>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
+Component:
+
+-> A TS class with behavior such as handling user input and fetching data from server.
+-> An HTML template that controls what renders into DOM.
+-> A CSS selector that defines how components used in HTML.
 
 
 
